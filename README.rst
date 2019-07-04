@@ -1,13 +1,10 @@
-### FORKED FROM PYPI_UPLOADER
+### FORKED FROM https://github.com/ignacysokolowski/pypi-uploader
 
 #### Fixed AttributeError: Module Pip has no attribute 'main'
 
 =============
 PyPI Uploader
 =============
-
-.. image:: https://coveralls.io/repos/ignacysokolowski/pypi-uploader/badge.png
-   :target: https://coveralls.io/r/ignacysokolowski/pypi-uploader
 
 .. image:: https://pypip.in/v/pypi-uploader/badge.png
   :target: https://crate.io/packages/pypi-uploader/

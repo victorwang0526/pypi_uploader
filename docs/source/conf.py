@@ -38,7 +38,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PyPI Uploader'
-copyright = u'2014, Ignacy Sokołowski'
+copyright = u'2019, Victor Wang'
 
 # The version info for the project, acts as replacement for |version| and
 # |release|, also used in various other places throughout the built documents.
@@ -74,7 +74,7 @@ man_pages = [
         'index',
         'PyPI Uploader',
         u'PyPI Uploader Documentation',
-        [u'Ignacy Sokołowski'],
+        [u'Victor Wang'],
         1,
     ),
 ]

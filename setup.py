@@ -58,13 +58,13 @@ tests_require = [
 ]
 
 setup(
-    name='pypi-uploader',
+    name='pypi-uploader2',
     version=get_version(),
-    author='Ignacy Sokolowski',
-    author_email='ignacy.sokolowski@gmail.com',
+    author='Victor Wang',
+    author_email='fengxuanwang0526@gmail.com',
     description='Upload source distributions to your PyPI server.',
-    long_description=read_file('README.rst'),
-    url='https://github.com/ignacysokolowski/pypi-uploader',
+    long_description_content_type=read_file('README.rst'),
+    url='https://github.com/victorwang0526/pypi_uploader',
     install_requires=install_requires,
     tests_require=tests_require,
     license=read_file('LICENSE'),

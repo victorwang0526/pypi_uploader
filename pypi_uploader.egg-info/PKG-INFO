@@ -1,11 +1,11 @@
 Metadata-Version: 1.1
 Name: pypi-uploader
-Version: 1.1.0
+Version: 1.1.1
 Summary: Upload source distributions to your PyPI server.
-Home-page: https://github.com/ignacysokolowski/pypi-uploader
-Author: Ignacy Sokolowski
-Author-email: ignacy.sokolowski@gmail.com
-License: Copyright (c) 2014 Ignacy Sokołowski
+Home-page: https://github.com/victorwang0526/pypi_uploader
+Author: Victor Wang
+Author-email: fengxuanwang0526@gmail.com
+License: Copyright (c) 2019 Victor Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,15 +25,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Description: =============
+Description: ### FORKED FROM https://github.com/ignacysokolowski/pypi-uploader
+        
+        #### Fixed AttributeError: Module Pip has no attribute 'main'
+        
+        =============
         PyPI Uploader
         =============
-        
-        .. image:: https://secure.travis-ci.org/ignacysokolowski/pypi-uploader.png
-          :target: http://travis-ci.org/ignacysokolowski/pypi-uploader
-        
-        .. image:: https://coveralls.io/repos/ignacysokolowski/pypi-uploader/badge.png
-           :target: https://coveralls.io/r/ignacysokolowski/pypi-uploader
         
         .. image:: https://pypip.in/v/pypi-uploader/badge.png
           :target: https://crate.io/packages/pypi-uploader/

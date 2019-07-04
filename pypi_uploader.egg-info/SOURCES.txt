@@ -4,6 +4,7 @@ LICENSE
 MANIFEST.in
 README.rst
 requirements_dev.txt
+setup.cfg
 setup.py
 tox.ini
 docs/Makefile
