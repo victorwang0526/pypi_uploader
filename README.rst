@@ -6,9 +6,6 @@
 PyPI Uploader
 =============
 
-.. image:: https://secure.travis-ci.org/ignacysokolowski/pypi-uploader.png
-  :target: http://travis-ci.org/ignacysokolowski/pypi-uploader
-
 .. image:: https://coveralls.io/repos/ignacysokolowski/pypi-uploader/badge.png
    :target: https://coveralls.io/r/ignacysokolowski/pypi-uploader
 
