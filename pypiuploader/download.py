@@ -3,7 +3,7 @@
 import os
 import tempfile
 
-import pip
+from pip._internal import main
 
 
 class PackageDownloader(object):
@@ -69,7 +69,7 @@ class PackageDownloader(object):
         """
         self._make_download_dir()
         args = self._build_args(requirements, requirements_file, no_use_wheel)
-        pip.main(args)
+        main(args)
         return self._list_download_dir()
 
     def _build_args(
