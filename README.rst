@@ -1,3 +1,7 @@
+### FORKED FROM PYPI_UPLOADER
+
+#### Fixed AttributeError: Module Pip has no attribute 'main'
+
 =============
 PyPI Uploader
 =============
